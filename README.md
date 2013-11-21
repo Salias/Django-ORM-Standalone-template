@@ -9,7 +9,7 @@ skills.
 
 How can I use it on my Non-Django projects ?
 
-Now You have a file structures with the minimum configuration to start a Python project using Django
+Now You have a file structures with the minimum configuration to start a Python project using Django ORM.
 
 ## FEATURES:
 

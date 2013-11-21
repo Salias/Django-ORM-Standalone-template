@@ -4,9 +4,12 @@ Django-ORM-Standalone-template
 ## Description
 
 What about if you want to use an ORM (Object-Relational Mapping) in your Python project ?. There is some alternatives online, 
-but, if you're a Django Framework developer as me and you're used to the Django ORM. How can I use it on my Non-Django projects.
+but, if you're a Django Framework developer as me and you're used to the Django ORM, you would like to save time and use your
+skills.
 
-Well, Now You have a file structures with the minimum configuration to start a Python project using Django
+How can I use it on my Non-Django projects ?
+
+Now You have a file structures with the minimum configuration to start a Python project using Django
 
 ## FEATURES:
 
